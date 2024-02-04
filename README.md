@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: [https://main--{repo}--{owner}.hlx.page/](https://main--aem-helix--manji6.hlx.page/)
+- Live: [https://main--{repo}--{owner}.hlx.live/](https://main--aem-helix--manji6.hlx.live/)
 
 ## Installation
 
